@@ -8,6 +8,6 @@ package Models;
  *
  * @author micha
  */
-public class Addoptante {
+public class Adoptante {
     
 }
